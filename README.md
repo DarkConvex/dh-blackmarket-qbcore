@@ -1,6 +1,7 @@
 # 🕶️ QBCore Black Market NPC System (FiveM)
 
 An **immersive underground trading system** for **QBCore FiveM servers**, featuring secret NPC dealers who **buy and sell illegal, rare, and high-value items**.
+<img width="1920" height="1080" alt="qbcore-blackmarket-npc-fivem" src="https://github.com/user-attachments/assets/e8c156c3-8643-424d-a2dc-e95b5bc32ef6" />
 
 Perfect for **gang RP, cartel networks, black markets, and criminal progression**.
 
